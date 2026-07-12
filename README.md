@@ -102,4 +102,4 @@ Involved with Virginia Tech's AI & Machine Learning Club, CyberVT, and the hacka
 
 ## Contact
 
-[Email](mailto:salehsyed1010@gmail.com) · [LinkedIn](https://linkedin.com/in/syed-saleh-264134276) · [View Resume](./syedsalehresume)
+[Email](mailto:salehsyed1010@gmail.com) · [LinkedIn](https://linkedin.com/in/syed-saleh-264134276) · [View Resume](./syedsalehresume.pdf)
