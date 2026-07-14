@@ -25,7 +25,7 @@ I was selected to join the Virginia Tech Baseball Analytics staff as a Student D
 
 Collects SEC filings and financial news through the SEC EDGAR API and web-based sources, structures the data for analysis, and uses embeddings and language-model classification to explore market sentiment.
 
-<!-- [View Repository](https://github.com/YOUR_USERNAME/REPOSITORY) -->
+ [View Repository]([https://github.com/YOUR_USERNAME/REPOSITORY](https://github.com/syedsalehdev/stockai))
 
 ### AI Receptionist System
 
