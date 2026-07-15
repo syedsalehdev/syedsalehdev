@@ -41,7 +41,7 @@ A voice-enabled automation system that converts customer requests into schedulin
 
 A Python-based converter that retrieves the highest-quality available audio streams from YouTube using yt-dlp and converts them to MP3 with configurable bitrates through FFmpeg. Includes batch processing support for converting multiple links from a list.
 
-< [View Repository](https://github.com/syedsalehdev/youtube2mp))>
+[View Repository](https://github.com/syedsalehdev/youtube2mp)
 
 ### LLVM IR Analyzer *(In Progress)*
 
