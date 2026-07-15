@@ -25,13 +25,21 @@ I was selected to join the Virginia Tech Baseball Analytics staff as a Student D
 
 Collects SEC filings and financial news through the SEC EDGAR API and web-based sources, structures the data for analysis, and uses embeddings and language-model classification to explore market sentiment.
 
- [View Repository](https://github.com/syedsalehdev/stockai)
+[View Repository](https://github.com/syedsalehdev/stockai)
 
 ### AI Receptionist System
 
 `Python` · `Azure SQL` · `n8n` · `RAG`
 
 A voice-enabled automation system that converts customer requests into scheduling actions using speech-to-text, Azure SQL, n8n workflows, and retrieval-augmented generation.
+
+<!-- [View Repository](https://github.com/YOUR_USERNAME/REPOSITORY) -->
+
+### YouTube-to-MP3 Converter
+
+`Python` · `FFmpeg` · `yt-dlp`
+
+A Python-based converter that retrieves the highest-quality available audio streams from YouTube using yt-dlp and converts them to MP3 with configurable bitrates through FFmpeg. Includes batch processing support for converting multiple links from a list.
 
 <!-- [View Repository](https://github.com/YOUR_USERNAME/REPOSITORY) -->
 
