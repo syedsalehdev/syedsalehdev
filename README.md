@@ -94,6 +94,7 @@ Exploring LLVM front-end tooling to generate and inspect intermediate representa
 * Baseball and TrackMan analytics
 * SQL analytical workflows
 * Data visualization
+* LLVM
 
 ---
 
