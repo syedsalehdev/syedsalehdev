@@ -6,7 +6,7 @@ I'm a Computational Modeling & Data Analytics student at Virginia Tech intereste
 
 ---
 
-## Baseball Analytics — Virginia Tech Baseball
+## Data Analyst — Virginia Tech Baseball
 
 I was selected to join the Virginia Tech Baseball Analytics staff as a Student Data Analyst for the upcoming 2026-2027 season. In this role I'll be supporting the team's use of TrackMan and in-game data to inform player development and opponent preparation.
 
