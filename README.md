@@ -163,7 +163,7 @@ A Python tool that retrieves available audio streams using yt-dlp and converts t
 
 **Virginia Tech**  
 B.S. in Computational Modeling & Data Analytics  
-**Expected graduation: May 2028** · GPA: 3.8
+**Expected graduation: May 2028** 
 
 **Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Low-Level Programming, Linear Algebra, Discrete Math, Multivariable Calculus, Probability & Statistics
 
