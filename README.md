@@ -6,7 +6,7 @@ I'm a Computational Modeling & Data Analytics student at Virginia Tech, graduati
 
 I'm interested in internship opportunities in software engineering, data science, and applied AI.
 
-[Portfolio](https://syedsaleh.dev) · [LinkedIn](https://linkedin.com/in/syed-saleh-264134276) · [Email](mailto:salehsyed1010@gmail.com) · [Resume](./syedsalehresume.pdf)
+[Portfolio](https://syedsaleh.dev) · [LinkedIn](https://linkedin.com/in/syed-saleh-264134276) · [Email](mailto:salehsyed1010@gmail.com) · [Resume](./syedsaleh_resume_S27.pdf)
 
 ---
 
